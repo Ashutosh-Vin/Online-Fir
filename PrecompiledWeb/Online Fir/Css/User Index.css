@@ -1,0 +1,47 @@
+﻿body {
+}
+.u1 {
+    border-top:5px solid;
+    border-color:#f00;
+    margin-top:-10px;
+}
+.u2 {
+    text-align:center;
+}
+.u3 {
+    text-align:center;
+}
+.i1 {
+    margin-top:60px;
+    padding:15px;
+}
+.menuback {
+    background-color:black;
+}
+.m1 {
+    list-style-type:none;
+    
+}
+.m2 {
+    display:inline;
+    padding:20px;
+    margin-left:100px;
+    font-size:20px;
+    line-height:50px;
+}
+    .m2 a {
+        text-decoration:none;
+        color:white;
+    }
+        .m2 a:hover {
+            
+            color:yellow;
+            
+        }
+
+.user {
+    color:red;
+}
+.back {
+    background:-webkit-linear-gradient(lightblue,white);
+}
