@@ -3,5 +3,5 @@
 
 <br /><br />
 <div class="col-sm-12 menuback" style="text-align:center; color:white; line-height:40px;">
-    <P>Copyright@2019 Uttar Pradesh Police. All Right Reserved. Powered By:Ashutosh Srivastava .....</P>
+    <P>Copyright@2019 Uttar Pradesh Police. All Right Reserved. Powered By: Ashutosh Srivastava .......</P>
 </div>
